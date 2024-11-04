@@ -1,0 +1,27 @@
+[
+  {
+    "title": "ZerodhaFront",
+    "imageSrc": "projects/tradingApp.png",
+    "description": "Invest your valuable money with confidence, anywhere & anytime.",
+    "skills": ["JSX", "Reactjs", "Bootstrap", "MaterialUI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+    {
+      "title": "Profolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "Explore my collection of projects and skills.",
+      "skills": ["JSX", "CSS", "JavaScript", "Reactjs", "Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Jainplk/Portfolio.git"
+    },
+    {
+      "title": "Recipe App",
+      "imageSrc": "projects/recipe_app.png",
+      "description": "Search your favorite Recipes with full Instructions and Ingredients.",
+      "skills": ["Html", "CSS", "JavaScript", "API"],
+      "demo": "https://jainplk.github.io/Recipe_App_project/",
+      "source": "https://github.com/Jainplk/Recipe_App_project.git"
+    }
+  
+  ]
