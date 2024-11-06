@@ -17,7 +17,7 @@ export default function Hero() {
                 </div>
                 <h5>Scroll for  More...</h5>
             </div>
-            <img src={getImageUrl("hero/heroImage.png")} alt="hero-image" className={styles.heroImg} />
+            <img src={getImageUrl("heroImage.png")} alt="hero-image" className={styles.heroImg} />
             <div className={styles.topBlur}></div>
             <div className={styles.bottomBlur}></div>
         </section>

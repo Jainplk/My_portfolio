@@ -7,7 +7,7 @@ export default function About() {
         <section className={styles.container} id='about'>
             <h3 className={styles.title}>ABOUT ME</h3>
             <div className={styles.content}>
-                <img src={getImageUrl("about/aboutImage.png")} alt="aboutImg" className={styles.aboutImg} />
+                <img src={getImageUrl("aboutImage.png")} alt="aboutImg" className={styles.aboutImg} />
                 
                <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>

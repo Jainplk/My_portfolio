@@ -11,8 +11,8 @@ export default function Navbar() {
             <a className={styles.title} href="/">Protfolio</a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn}
-                    src={menuOpen ? getImageUrl("nav/closeIcon.png")
-                        : getImageUrl("nav/menuIcon.png")
+                    src={menuOpen ? getImageUrl("closeIcon.png")
+                        : getImageUrl("menuIcon.png")
                     }
                     alt='menuBtn'
                     onClick={() => setMenuOpen(!menuOpen)}
@@ -23,7 +23,7 @@ export default function Navbar() {
                         <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="./assets/nav/Palak_jain_resume.pdf" target='_blank'>Resume</a>
+                        <a href="/Palak_jain_resume.pdf" target='_blank'>Resume</a>
                     </li>
                     <li>
                         <a href="#skills">Skills</a>
